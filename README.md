@@ -1,5 +1,6 @@
 DeProPose: Deficiency-Proof 3D Human Pose Estimation via Adaptive Multi-View Fusion
- Abstract—3D human pose estimation has wide applications
+
+Abstract—3D human pose estimation has wide applications
  in fields such as intelligent surveillance, motion capture, and
  virtual reality. However, in real-world scenarios, issues such
  as occlusion, noise interference, and missing viewpoints can
