@@ -34,9 +34,9 @@ ness and accuracy in deficiency-aware scenarios. Compared to
  conventional scenarios, providing a powerful and user-friendly
  solution for 3D human pose estimation. 
 
-# Dataset
-
+# Code for generating the DA-3DPE dataset
+add_missing and add_noise are the codes we use to generate noisy images and incomplete/missing images. You can use this code to generate your own images.
 # Train
-
+Run the train file to start training.
 # Test
-
+Run the test script to perform evaluation.
